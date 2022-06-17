@@ -1,0 +1,28 @@
+C:\Users\hp pavilion\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\bin\Debug\netcoreapp3.1\MyFirstConsoleCalculator.exe
+C:\Users\hp pavilion\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\bin\Debug\netcoreapp3.1\MyFirstConsoleCalculator.deps.json
+C:\Users\hp pavilion\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\bin\Debug\netcoreapp3.1\MyFirstConsoleCalculator.runtimeconfig.json
+C:\Users\hp pavilion\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\bin\Debug\netcoreapp3.1\MyFirstConsoleCalculator.runtimeconfig.dev.json
+C:\Users\hp pavilion\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\bin\Debug\netcoreapp3.1\MyFirstConsoleCalculator.dll
+C:\Users\hp pavilion\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\bin\Debug\netcoreapp3.1\MyFirstConsoleCalculator.pdb
+C:\Users\hp pavilion\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.csproj.AssemblyReference.cache
+C:\Users\hp pavilion\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp pavilion\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\hp pavilion\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.AssemblyInfo.cs
+C:\Users\hp pavilion\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hp pavilion\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.dll
+C:\Users\hp pavilion\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.pdb
+C:\Users\hp pavilion\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.genruntimeconfig.cache
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\bin\Debug\netcoreapp3.1\MyFirstConsoleCalculator.exe
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\bin\Debug\netcoreapp3.1\MyFirstConsoleCalculator.deps.json
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\bin\Debug\netcoreapp3.1\MyFirstConsoleCalculator.runtimeconfig.json
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\bin\Debug\netcoreapp3.1\MyFirstConsoleCalculator.runtimeconfig.dev.json
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\bin\Debug\netcoreapp3.1\MyFirstConsoleCalculator.dll
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\bin\Debug\netcoreapp3.1\MyFirstConsoleCalculator.pdb
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.AssemblyInfo.cs
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.dll
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.pdb
+C:\Users\hp\Desktop\source-20220211T210215Z-001\source\repos\MyFirstConsoleCalculator\MyFirstConsoleCalculator\obj\Debug\netcoreapp3.1\MyFirstConsoleCalculator.genruntimeconfig.cache

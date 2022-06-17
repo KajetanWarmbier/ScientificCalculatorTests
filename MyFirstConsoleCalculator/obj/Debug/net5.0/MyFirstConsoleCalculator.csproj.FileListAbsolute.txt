@@ -1,0 +1,16 @@
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\bin\Debug\net5.0\MyFirstConsoleCalculator.exe
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\bin\Debug\net5.0\MyFirstConsoleCalculator.deps.json
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\bin\Debug\net5.0\MyFirstConsoleCalculator.runtimeconfig.json
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\bin\Debug\net5.0\MyFirstConsoleCalculator.runtimeconfig.dev.json
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\bin\Debug\net5.0\MyFirstConsoleCalculator.dll
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\bin\Debug\net5.0\ref\MyFirstConsoleCalculator.dll
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\bin\Debug\net5.0\MyFirstConsoleCalculator.pdb
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\obj\Debug\net5.0\MyFirstConsoleCalculator.csproj.AssemblyReference.cache
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\obj\Debug\net5.0\MyFirstConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\obj\Debug\net5.0\MyFirstConsoleCalculator.AssemblyInfoInputs.cache
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\obj\Debug\net5.0\MyFirstConsoleCalculator.AssemblyInfo.cs
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\obj\Debug\net5.0\MyFirstConsoleCalculator.csproj.CoreCompileInputs.cache
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\obj\Debug\net5.0\MyFirstConsoleCalculator.dll
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\obj\Debug\net5.0\ref\MyFirstConsoleCalculator.dll
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\obj\Debug\net5.0\MyFirstConsoleCalculator.pdb
+E:\KajWarRepo\ConsoleScientificCalculator\MyFirstConsoleCalculator\obj\Debug\net5.0\MyFirstConsoleCalculator.genruntimeconfig.cache
